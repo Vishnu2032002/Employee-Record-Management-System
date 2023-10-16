@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+
+/* Style the navigation links */
+.one {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+
+/* Style the buttons */
+.one{
+  background-color: #c0c0c0;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.two{
+  background-color: #c0c0c0;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.three{
+  background-color: #c0c0c0;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+
